@@ -6,8 +6,7 @@
 - Microsoft Power BI
 - Sql
 
-- 
-![](XNFQ2458[1].JPG)
+![](Artboard2.png)
 
 |Table | Male | Female |
 |----- | ---- | ------ |
